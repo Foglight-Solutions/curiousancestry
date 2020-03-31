@@ -2,8 +2,8 @@
  * Created by triestelaporte on 3/30/20.
  */
 
-public with sharing class CuriousIndeed {
-	public static Integer minimumMad = 1;
+global with sharing class CuriousIndeed {
+	global static Integer minimumMad = 1;
 
 	public static Integer getMadOrMadder (Integer isMad) {
 
